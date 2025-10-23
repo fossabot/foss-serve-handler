@@ -3,6 +3,7 @@
 [![Tests](https://github.com/vercel/serve-handler/actions/workflows/tests.yaml/badge.svg)](https://github.com/vercel/serve-handler/actions/workflows/tests.yaml)
 [![codecov](https://codecov.io/gh/vercel/serve-handler/branch/main/graph/badge.svg)](https://codecov.io/gh/vercel/serve-handler)
 [![install size](https://packagephobia.now.sh/badge?p=serve-handler)](https://packagephobia.now.sh/result?p=serve-handler)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwalter11235%2Ffoss-serve-handler.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwalter11235%2Ffoss-serve-handler?ref=badge_shield)
 
 This package represents the core of [serve](https://github.com/vercel/serve). It can be plugged into any HTTP server and is responsible for routing requests and handling responses.
 
@@ -319,3 +320,7 @@ Leo Lamprecht ([@leo](https://x.com/leo)) - [Vercel](https://vercel.com)
 
 [etag]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/ETag
 [last-modified]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Last-Modified
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwalter11235%2Ffoss-serve-handler.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwalter11235%2Ffoss-serve-handler?ref=badge_large)
